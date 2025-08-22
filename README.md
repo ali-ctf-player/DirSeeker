@@ -1,5 +1,21 @@
 # DirSeeker 🔎
 
+<pre>
+    ____   _      ____            _             
+    |  _ \(_)_ __/ ___|  ___  ___| | _____ _ __ 
+    | | | | | '__\___ \ / _ \/ _ \ |/ / _ \ '__|
+    | |_| | | |   ___) |  __/  __/   <  __/ |   
+    |____/|_|_|  |____/ \___|\___|_|\_\___|_|   
+                                         
+                                                                        
+    ════════════════════════════════════════════════════════════════════
+    [*] WEB Directory & File Brute Forcer
+    [*] Author: Aliakbar Babayev
+    [*] Version: 1.0
+    [*] Multi-threaded: 50 threads
+    ════════════════════════════════════════════════════════════════════
+</pre>
+
 **DirSeeker** is a Python-based directory brute-force tool for discovering hidden files and folders on web servers.  
 It’s lightweight, customizable, and perfect for penetration testers & bug bounty hunters.
 
