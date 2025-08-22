@@ -13,7 +13,6 @@ It’s lightweight, customizable, and perfect for penetration testers & bug boun
 
 ---
 
----
 
 ## ⚙️ Installation
 Clone the repository and install dependencies:
@@ -22,3 +21,19 @@ git clone https://github.com/ali-ctf-player/DirSeeker.git
 cd DirSeeker
 pip install -r requirements.txt
 ```
+
+---
+
+## 🖥️ Usage
+```bash
+python dirseeker.py  http://target.com wordlist.txt 
+```
+
+---
+
+
+✨ Author
+
+Aliakbar Babayev
+
+GitHub: @ali-ctf-player
