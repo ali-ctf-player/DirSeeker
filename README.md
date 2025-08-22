@@ -35,7 +35,7 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/ali-ctf-player/DirSeeker.git
 cd DirSeeker
-sudo apt install python3- -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ---
